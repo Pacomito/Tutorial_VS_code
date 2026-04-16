@@ -1,6 +1,6 @@
 # VS Code for Clinical & Biological Data Analysis with R
 
-**A 3-Hour Hands-On Workshop for Non-Developers**
+**A Hands-On Workshop for Non-Developers**
 
 Welcome! This tutorial will guide you through using Visual Studio Code (VS Code) with AI assistance to analyze clinical and biological data. By the end, you'll be able to independently analyze your own datasets using R.
 
